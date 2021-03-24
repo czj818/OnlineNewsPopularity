@@ -44,6 +44,7 @@ We have implemented different method to do classifications:
 - Random forest
 - XGBoost
 - Convolution neural network
+
 For K-nn, we used the 5-fold cross validation to select the hyperparameters, others we used grid search to find the best hyperparameter values. CNN we trained for 20 epoch, batch size 10 sigmoid activation because binary classification and RMSprop as the optimizer because it has the highest accuracy and it converge fast. 
 
 ## Result and Evaluation
