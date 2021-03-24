@@ -29,7 +29,7 @@ Next up, we checked the correlation between variables and found out that some of
 During the Exploratory data analysis, we found that popularity of the news might relates to posting on different days of a week. 
 From the chart here, from Monday to Thursday, the number of popular news and unpopular news does not have a large difference. But from Friday to Sunday, number of popular news are way more than unpopular news. Posting on weekends has a bigger chance to become popular.
 
-![](https://github.com/czj818/OnlineNewsPopularity/blob/main/img/day.jpeg)
+![](https://github.com/czj818/OnlineNewsPopularity/blob/main/img/days.jpeg)
 
 Then we want to investigate whether different data channels effect on the popularity. It seems that news from technology, social media and lifestyle channels are more likely to become popular. The largest number of popular new belongs to the technology channel.
 
